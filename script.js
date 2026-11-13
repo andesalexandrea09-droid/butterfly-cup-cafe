@@ -2,7 +2,7 @@
 const menus = [
     {
         name: "Pijat badan",
-        category: "treatment",
+        category: Treatment",
         price: 50000,
         description: "Pijat badan lengkap.",
         image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600"
@@ -30,14 +30,14 @@ const menus = [
     },
     {
         name: "spa",
-        category: "relaksi",
+        category: "Relaksi",
         price: 430000,
         description: "Pijit badan diiringi aroma wewangian dan minyak zaitun.",
         image: "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=600"
     },
     {
         name: "Premium treatment and spa",
-        category: "relaksi",
+        category: "Relaksi",
         price: 13000,
         description: "Pijit badan lengkap dengan treatment+full servis.",
         image: "https://images.unsplash.com/photo-1542990253-0b8be8c9a1c5?w=600"
